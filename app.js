@@ -142,12 +142,13 @@ app.listen(app.get('port'), function () { return console.log('Madden Data is run
 <script>
   // Initialize Firebase
   var config = {
-    apiKey: "AIzaSyDwtW0KwwVUZNEODBCvrHveMTm1URdH5B8",
-    authDomain: "ebowl-37c5a.firebaseapp.com",
-    databaseURL: "https://ebowl-37c5a.firebaseio.com",
-    projectId: "ebowl-37c5a",
-    storageBucket: "ebowl-37c5a.appspot.com",
-    messagingSenderId: "49186669936"
+    apiKey: "AIzaSyD6VJihJlNXY0olibNPhyo1PLnhRRMd6IE",
+    authDomain: "e-bowl-gaming.firebaseapp.com",
+    databaseURL: "https://e-bowl-gaming.firebaseio.com",
+    projectId: "e-bowl-gaming",
+    storageBucket: "e-bowl-gaming.appspot.com",
+    messagingSenderId: "531310591400",
+    appId: "1:531310591400:web:d6fd843be3464190"
   };
   firebase.initializeApp(config);
 </script>
